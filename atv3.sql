@@ -37,7 +37,7 @@ connection.connect();
 connection.query('CALL ConsultarLocacoesCombustivel()', (error, results, fields) => {
   if (error) throw error;
   console.log('Resultado da consulta:');
-  console.log(results[0]); // O resultado será um array, com os dados no índice 0
+  console.log(results[0]); //
 });
 
 connection.end();
