@@ -1,0 +1,7 @@
+Instalação do MySQL no Ubuntu Server: Instruções para instalar o MySQL no Ubuntu Server, incluindo atualização de repositórios e instalação do pacote mysql-server.
+Instalação do Apache no Ubuntu Server: Orientações sobre como instalar o Apache no Ubuntu Server, envolvendo atualização de repositórios e instalação do pacote apache2.
+Instalação do SSH no Ubuntu Server: Passos para instalar o SSH no Ubuntu Server, usado para entrar na hospedagem de um site e fazer os mais variados tipos de mudanças nas configurações
+Instalação do PHP no Ubuntu Server: Passos para instalar o PHP no Ubuntu Server, abrangendo atualização de repositórios e instalação dos pacotes php e libapache2-mod-php.
+Instalação do phpMyAdmin no Ubuntu Server: Comando fornecido para instalar o phpMyAdmin no Ubuntu Server usando o apt.
+Criação de uma tabela no phpMyAdmin: Comando SQL fornecido para criar uma tabela chamada CARROS no phpMyAdmin. Após uma correção, o comando foi executado com sucesso.
+Instalação do NODE e o ZIP
