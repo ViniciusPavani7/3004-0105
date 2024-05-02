@@ -17,7 +17,7 @@
       console.log(results);
     });
 
-    connection.end
+    connection.end();
 
 
 
